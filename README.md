@@ -12,3 +12,4 @@
 ## 2018年1月
 
 ### [10 个技巧促使你的 Git 的技能上一个台阶 —— SitePoint](https://github.com/sakila1012/blog/issues/4)
+### [2018 前端性能优化清单 - 第 2 部分](https://github.com/sakila1012/blog/issues/5)
