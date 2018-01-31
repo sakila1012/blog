@@ -14,4 +14,4 @@
 ### [10 个技巧促使你的 Git 的技能上一个台阶 —— SitePoint](https://github.com/sakila1012/blog/issues/4)
 ### [2018 前端性能优化清单 - 第 2 部分](https://github.com/sakila1012/blog/issues/5)
 ### [你想成为一个 函数编程者么（第一部分）](https://github.com/sakila1012/blog/issues/6)
-### [你想成为一个 函数编程者么（第一部分）](https://github.com/sakila1012/blog/issues/7)
+### [使用深度学习自动生成 HTML 代码 - 第 1 部分](https://github.com/sakila1012/blog/issues/7)
