@@ -9,9 +9,13 @@
 ### [加入苏研的感受](https://github.com/sakila1012/blog/issues/2)
 ### [如何使用 AJAX 和 REST API 创建一个图表](https://github.com/sakila1012/blog/issues/3)
 
-## 2018年1月
+## 2018 年 1 月
 
 ### [10 个技巧促使你的 Git 的技能上一个台阶 —— SitePoint](https://github.com/sakila1012/blog/issues/4)
 ### [2018 前端性能优化清单 - 第 2 部分](https://github.com/sakila1012/blog/issues/5)
 ### [你想成为一个 函数编程者么（第一部分）](https://github.com/sakila1012/blog/issues/6)
 ### [使用深度学习自动生成 HTML 代码 - 第 1 部分](https://github.com/sakila1012/blog/issues/7)
+
+## 2018 年 2 月
+
+
