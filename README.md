@@ -18,5 +18,5 @@
 
 ## 2018 年 2 月
 
-### [css 浮动的理解](https://www.w3.org/TR/CSS2/)
+### [css 浮动的理解](https://github.com/sakila1012/blog/issues/9)
 
