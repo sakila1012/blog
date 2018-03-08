@@ -22,4 +22,4 @@
 
 ### 博客
 
-- [data-structure-with-js](https://github.com/sakila1012/data-structure-with-js)
+- [data-structure-with-js](https://github.com/LukeLin/js-stl)
