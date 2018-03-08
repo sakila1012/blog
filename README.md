@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/creeperyang/blog/issues"><b>所有文章</b></a>
+<a href="https://github.com/sakila1012/blog/issues"><b>所有文章</b></a>
 </p>
 
 记录自己对前端的学习过程
