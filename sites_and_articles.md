@@ -15,3 +15,7 @@
 
 - [alinode解读node源码：deep-into-node](https://yjhjstz.gitbooks.io/deep-into-node/)
 - [netflix技术博客](http://techblog.netflix.com/)
+
+### 博主
+
+- [creeperyang](https://github.com/creeperyang/blog)
