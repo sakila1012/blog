@@ -34,3 +34,4 @@
 #### [20 年后比特币将会变成什么样-第 3 部分](https://github.com/sakila1012/blog/issues/11)
 #### [跨域整理总结](https://github.com/sakila1012/blog/issues/12)
 #### [浏览器的回流与重绘整理总结](https://github.com/sakila1012/blog/issues/13)
+#### [谈谈我对闭包的理解](https://github.com/sakila1012/blog/issues/14)
