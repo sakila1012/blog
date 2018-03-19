@@ -35,3 +35,4 @@
 #### [跨域整理总结](https://github.com/sakila1012/blog/issues/12)
 #### [浏览器的回流与重绘整理总结](https://github.com/sakila1012/blog/issues/13)
 #### [谈谈我对闭包的理解](https://github.com/sakila1012/blog/issues/14)
+#### [web 性能优化](https://github.com/sakila1012/blog/issues/15)
