@@ -45,3 +45,4 @@
 #### [Node.js+Mysql+Vue+ElementUI 实现登录注册注销功能](https://github.com/sakila1012/blog/issues/22)
 #### [关于 JavaScript 中的深拷贝](https://github.com/sakila1012/blog/issues/23)
 #### [Event Loop 总结](https://github.com/sakila1012/blog/issues/25)
+#### [Vue 响应式原理](https://github.com/sakila1012/blog/issues/26)
