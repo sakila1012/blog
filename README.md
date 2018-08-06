@@ -50,3 +50,6 @@
 ## 2018 年 5 月
 #### [记录剪贴板的使用遇到的坑](https://github.com/sakila1012/blog/issues/27)
 
+## 2018 年 8 月
+#### [mongodb 学习笔记](https://github.com/sakila1012/blog/issues/34)
+
