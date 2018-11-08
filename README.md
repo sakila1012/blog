@@ -57,3 +57,6 @@
 ## 2018 年 8 月
 #### [mongodb 学习笔记](https://github.com/sakila1012/blog/issues/29)
 
+## 2018 年 11 月
+
+### [记录知识管理平台开发中遇到的坑](https://github.com/sakila1012/blog/issues/30)
