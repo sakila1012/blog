@@ -51,7 +51,7 @@
 #### [记录剪贴板的使用遇到的坑](https://github.com/sakila1012/blog/issues/27)
 
 ## 2018 年 7 月
-### [记录网盘项目开发过程中遇到的坑](https://github.com/sakila1012/blog/issues/28)
+#### [记录网盘项目开发过程中遇到的坑](https://github.com/sakila1012/blog/issues/28)
 
 
 ## 2018 年 8 月
@@ -59,4 +59,5 @@
 
 ## 2018 年 11 月
 
-### [记录知识管理平台开发中遇到的坑](https://github.com/sakila1012/blog/issues/30)
+#### [记录知识管理平台开发中遇到的坑](https://github.com/sakila1012/blog/issues/30)
+#### [招聘术语的理解](https://github.com/sakila1012/blog/issues/31)
