@@ -61,3 +61,7 @@
 
 #### [记录知识管理平台开发中遇到的坑](https://github.com/sakila1012/blog/issues/30)
 #### [招聘术语的理解](https://github.com/sakila1012/blog/issues/31)
+
+## 2018 年 12 月
+
+#### [理解clientX,clientY,pageX,pageY,offsetX,offsetY](https://github.com/sakila1012/blog/issues/32)
