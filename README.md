@@ -66,3 +66,7 @@
 
 #### [理解clientX,clientY,pageX,pageY,offsetX,offsetY](https://github.com/sakila1012/blog/issues/32)
 #### [理解 Vue slot](https://github.com/sakila1012/blog/issues/33)
+
+## 2019 年 1 月
+
+#### [理解代码覆盖率工具 Istanbul](https://github.com/sakila1012/blog/issues/36)
